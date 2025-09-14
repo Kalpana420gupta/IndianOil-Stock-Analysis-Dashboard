@@ -3,20 +3,20 @@ This repository contains an interactive Power BI dashboard designed for Indian O
 
 🚀 Features:
 
-Visualizes sales performance, inventory levels, and distribution metrics
+  Visualizes sales performance, inventory levels, and distribution metrics
 
-Monitors refinery output, fuel consumption trends, and logistics efficiency
+  Monitors refinery output, fuel consumption trends, and logistics efficiency
 
-Dynamic filters for region, product, and time period
+  Dynamic filters for region, product, and time period
 
-Drill-down capabilities for detailed analysis
+  Drill-down capabilities for detailed analysis
 
-Integrated KPI cards, trend lines, bar/line charts, and geo-mapping
+  Integrated KPI cards, trend lines, bar/line charts, and geo-mapping
 
 🛠️ Built With:
 
-Power BI Desktop
+  Power BI Desktop
 
-Data sources: Excel / SQL Server / SharePoint (adapt based on your source)
+  Data sources: Excel / SQL Server / SharePoint (adapt based on your source)
 
-DAX and Power Query for data transformation
+  DAX and Power Query for data transformation
